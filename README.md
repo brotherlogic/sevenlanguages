@@ -1,3 +1,3 @@
 # Seven Languages
 
-Learning seven languages in seven weeks.
+Learning seven languages in seven weeks. As if.
