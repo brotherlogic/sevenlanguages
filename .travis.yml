@@ -1,0 +1,12 @@
+language: ruby
+
+branches:
+  only:
+  - master
+
+before_script: cd ruby
+
+install: bundle install
+script:
+  - bundle exec rsepc
+  - bundle exec rubocop
