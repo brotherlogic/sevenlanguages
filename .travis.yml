@@ -4,7 +4,7 @@ branches:
   only:
   - master
 
-before_script: cd ruby
+before_install: cd ruby
 
 install: bundle install
 script:
